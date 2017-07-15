@@ -78,9 +78,18 @@ margin-left: 166px;
       margin: 42px;
       border-radius: 10px 10px 10px 10px;
   }
+  .footer{
+      color: #3a78ad;
+      font-size:32px;
+      text-align:center;
+  }
   @media(max-width:970px){
 body{
    margin:10px;
 
   }
   }
+*{
+  margin:0px;
+  padding:0px;
+}
