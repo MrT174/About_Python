@@ -59,15 +59,15 @@ margin-left: 166px;
  }
 #horizontal_nav{
   font-style: normal;
-      font-size: 30px;
-      color: white;
-      font-family: "Times New Roman";
-      background-color: #3a78ad;
-      width: 84%;
-      margin-left: 84px;
-      border-radius: 9px;
-      height: 35px;
-      padding: 6px;
+  font-size: 30px;
+  color: white;
+  font-family: "Times New Roman";
+  background-color: #3a78ad;
+  width: 84%;
+  margin-left: 84px;
+  border-radius: 9px;
+  height: 35px;
+  padding: 6px;
 
 }
 .headerFont{
